@@ -1,0 +1,37 @@
+# Core RAG Framework
+llama-index
+llama-index-llms-openai
+llama-index-embeddings-openai
+
+# LangChain for CRAG
+langchain
+langchain-openai
+langchain-community
+langgraph
+
+# Reranking
+sentence-transformers
+
+# Web Search
+tavily-python
+
+# DSPy for optimization
+dspy-ai
+
+# API Server
+fastapi
+uvicorn
+websockets
+python-multipart
+
+# Utilities
+pydantic
+aiofiles
+
+# Frontend Build
+httpx
+
+sqlalchemy>=2.0.0
+asyncpg>=0.28.0
+psycopg2-binary>=2.9.0
+python-dotenv>=1.0.0
